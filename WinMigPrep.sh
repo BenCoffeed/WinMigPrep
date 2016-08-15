@@ -1,9 +1,7 @@
 #Name: WinMigPrep.sh
 #Version: 5.0
 #Original built off of script from Kevin Griffis, Concept Technology, Inc.
-#Updated by Ben Tennant, Concept Technology, Inc.
-#			 E:helpdesk@concepttechnologyinc.com
-#			 P:(615)321-6428
+#Updated by Ben Tennant
 #Recursively removes illegal characters from directory and file names
 
 #Variables
